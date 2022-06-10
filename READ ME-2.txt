@@ -1,0 +1,21 @@
+Name: Moshe Oliel, ID: 208415455, Email: moshe34112@gmail.com
+Second year, Computer Science Department - Ashqelon College
+================================================
+Assignment: 
+math app by using Android Studio, 
+when 2 numbers are multiplied, and one has to guess the answer. 
+
+Algorithm:
+maintenance of the code and make new functions:
+1. change High Scores button to Final Score
+2. fix Quit button 
+3. cancel line of Level
+4. advance Score every success 
+5. added Main Menu button return to the Main Menu 
+6. make it harder to solve
+7. added Android Icon 
+
+Goals: 
+The purpose of the exercise: to independently understand and work on an existing plan,
+ and perform maintenance (corrections) and improvements in it.
+
